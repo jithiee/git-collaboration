@@ -42,6 +42,8 @@ function Footer() {
    <h5>hellooe  this is new one</h5>
         
       </div>
+
+      <h4>wowow </h4>
     </div>
   )
 }
