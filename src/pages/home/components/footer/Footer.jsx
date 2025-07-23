@@ -33,17 +33,29 @@ function Footer() {
           <p>onion  Cookies</p>
           <p>tomato  Cookies</p>
           <p>potato  Cookies</p>
-      
+          
+        <h1>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus labore in asperiores placeat possimus, necessitatibus voluptate numquam dolore, repellendus impedit eligendi iure eaque, magni hic tempore iste accusamus veniam nemo!</h1>
         </div>
         <p>HI HELLLO TESTING STASH</p>
       <div>
    
 
    <h5>hellooe  this is new one</h5>
+
+
+   <p>hasfsa</p>
         
       </div>
 
       <h4>wowow </h4>
+
+  <div>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vel similique quibusdam dolorem quaerat ipsam id eos animi. Ad non quos maiores mollitia quaerat. Magnam sint saepe, quod hic optio inventore.</p>
+
+  </div>
+
+
+
     </div>
   )
 }
